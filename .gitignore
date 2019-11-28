@@ -33,3 +33,5 @@ yarn-debug.log*
 # custom
 /vendor/bundle
 .env
+
+.bash_profile

@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: Tweet_app_production
-  username: Tweet_app
-  password: <%= ENV['TWEET_APP_DATABASE_PASSWORD'] %>
+  username: root
+  password: 
